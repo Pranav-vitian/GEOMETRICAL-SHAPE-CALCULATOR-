@@ -171,9 +171,9 @@ datetime module
 All modules used in the program are part of Python's standard library, so no external packages are required.
 
 📁 Project Structure
-Geometric-Shape-Calculator/
-│
-├── geometric_shape_calculator.py
+Geometric-Shape-Calculator/\
+│ \
+├── geometric_shape_calculator.py\
 └── README.md
 
 
